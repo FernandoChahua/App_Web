@@ -1,0 +1,12 @@
+C:\Users\nanfo\Desktop\webPC2\PC2.Repository\bin\Debug\netstandard2.0\PC2.Repository.deps.json
+C:\Users\nanfo\Desktop\webPC2\PC2.Repository\bin\Debug\netstandard2.0\PC2.Repository.dll
+C:\Users\nanfo\Desktop\webPC2\PC2.Repository\bin\Debug\netstandard2.0\PC2.Repository.pdb
+C:\Users\nanfo\Desktop\webPC2\PC2.Repository\bin\Debug\netstandard2.0\PC2.Domain.dll
+C:\Users\nanfo\Desktop\webPC2\PC2.Repository\bin\Debug\netstandard2.0\PC2.Domain.pdb
+C:\Users\nanfo\Desktop\webPC2\PC2.Repository\obj\Debug\netstandard2.0\PC2.Repository.csprojAssemblyReference.cache
+C:\Users\nanfo\Desktop\webPC2\PC2.Repository\obj\Debug\netstandard2.0\PC2.Repository.csproj.CoreCompileInputs.cache
+C:\Users\nanfo\Desktop\webPC2\PC2.Repository\obj\Debug\netstandard2.0\PC2.Repository.AssemblyInfoInputs.cache
+C:\Users\nanfo\Desktop\webPC2\PC2.Repository\obj\Debug\netstandard2.0\PC2.Repository.AssemblyInfo.cs
+C:\Users\nanfo\Desktop\webPC2\PC2.Repository\obj\Debug\netstandard2.0\PC2.Repository.csproj.CopyComplete
+C:\Users\nanfo\Desktop\webPC2\PC2.Repository\obj\Debug\netstandard2.0\PC2.Repository.dll
+C:\Users\nanfo\Desktop\webPC2\PC2.Repository\obj\Debug\netstandard2.0\PC2.Repository.pdb
